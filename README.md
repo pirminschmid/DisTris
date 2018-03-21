@@ -43,8 +43,7 @@ The various modules of the application communicate with Android intents. Seriali
 We quickly learned that testing of a distributed application comes with its own challenges. Writing a game, however, comes with the advantage that some of the testing can be done by just playing the game in a group. :-)
 
 
-Media
------
+# Media
 - short [video clip][clip1] with sound (MP4)
 - longer [video clip][clip2] during testing without sound (MP4)
 
